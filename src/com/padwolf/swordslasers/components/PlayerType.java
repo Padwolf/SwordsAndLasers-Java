@@ -50,6 +50,9 @@ public class PlayerType {
     private int manna;
     private int stamina;
     private Object[] inv;
+    public PlayerType(){
+
+    }
     public PlayerType(String typeName, int initHealth, int initManna, int initStamina, Object[] startingInv){
         type = typeName;
         health = initHealth;

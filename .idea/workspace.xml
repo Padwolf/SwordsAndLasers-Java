@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c712fbac-7d48-43c8-a8d3-d5510776e337" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/padwolf/swordslasers/GameRefs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/padwolf/swordslasers/components/Race.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/padwolf/swordslasers/components/entity/Entity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/padwolf/swordslasers/components/entity/Item.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/padwolf/swordslasers/components/entity/Player.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/padwolf/swordslasers/components/weapons/WeaponMelee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/padwolf/swordslasers/iohandling/Profile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/padwolf/swordslasers/registration/Registrar.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/padwolf/swordslasers/components/Item.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/padwolf/swordslasers/Controller.java" afterPath="$PROJECT_DIR$/src/com/padwolf/swordslasers/Controller.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/padwolf/swordslasers/components/PlayerType.java" afterPath="$PROJECT_DIR$/src/com/padwolf/swordslasers/components/PlayerType.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/padwolf/swordslasers/components/Race.java" afterPath="$PROJECT_DIR$/src/com/padwolf/swordslasers/components/Race.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/padwolf/swordslasers/registration/Registrar.java" afterPath="$PROJECT_DIR$/src/com/padwolf/swordslasers/registration/Registrar.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/padwolf/swordslasers/registration/Registration.java" afterPath="$PROJECT_DIR$/src/com/padwolf/swordslasers/registration/Registration.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/padwolf/swordslasers/components/Weapon.java" afterPath="$PROJECT_DIR$/src/com/padwolf/swordslasers/components/weapons/Weapon.java" />
     </list>
     <ignored path="Swords and Lasers.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,7 +30,43 @@
     <favorites_list name="Swords and Lasers" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PlayerType.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/padwolf/swordslasers/components/PlayerType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+              <folding>
+                <element signature="e#770#771#0" expanded="true" />
+                <element signature="e#806#807#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Race.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/padwolf/swordslasers/components/Race.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="120" selection-start-line="16" selection-start-column="120" selection-end-line="16" selection-end-column="120" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Registrar.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/padwolf/swordslasers/registration/Registrar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="3.16">
+              <caret line="87" column="29" selection-start-line="87" selection-start-column="29" selection-end-line="87" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -70,11 +97,13 @@
         <option value="$PROJECT_DIR$/src/com/padwolf/swordslasers/components/weapons/Item.java" />
         <option value="$PROJECT_DIR$/src/com/padwolf/swordslasers/components/entity/Item.java" />
         <option value="$PROJECT_DIR$/src/com/padwolf/swordslasers/components/entity/Entity.java" />
-        <option value="$PROJECT_DIR$/src/com/padwolf/swordslasers/components/Race.java" />
         <option value="$PROJECT_DIR$/src/com/padwolf/swordslasers/GameRefs.java" />
         <option value="$PROJECT_DIR$/src/com/padwolf/swordslasers/registration/Registration.java" />
         <option value="$PROJECT_DIR$/src/com/padwolf/swordslasers/components/entity/Player.java" />
         <option value="$PROJECT_DIR$/src/com/padwolf/swordslasers/Controller.java" />
+        <option value="$PROJECT_DIR$/src/com/padwolf/swordslasers/components/Race.java" />
+        <option value="$PROJECT_DIR$/src/com/padwolf/swordslasers/playertypes/PlayerType.java" />
+        <option value="$PROJECT_DIR$/src/com/padwolf/swordslasers/playertypes/Knight.java" />
         <option value="$PROJECT_DIR$/src/com/padwolf/swordslasers/registration/Registrar.java" />
       </list>
     </option>
@@ -568,12 +597,18 @@
       <option name="project" value="LOCAL" />
       <updated>1454021930457</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="I have made a lot of progress since my last commit. As of now, you can create and register basic custom player types (or typical nomenclature is classes) and races and create characters based off of them.">
+      <created>1454112023194</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1454112023194</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -613,7 +648,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I added the basic classes for creating new characters, weapons, and items." />
     <MESSAGE value="I began to work on the player type class (with mod development in mind). I also added a basic registration system This will have to be worked on. The registration needs to be initialized from a single class, then all other classes access that class for the &quot;official&quot; registration, otherwise none of the other registration data will be read by the main class." />
-    <option name="LAST_COMMIT_MESSAGE" value="I began to work on the player type class (with mod development in mind). I also added a basic registration system This will have to be worked on. The registration needs to be initialized from a single class, then all other classes access that class for the &quot;official&quot; registration, otherwise none of the other registration data will be read by the main class." />
+    <MESSAGE value="I have made a lot of progress since my last commit. As of now, you can create and register basic custom player types (or typical nomenclature is classes) and races and create characters based off of them." />
+    <option name="LAST_COMMIT_MESSAGE" value="I have made a lot of progress since my last commit. As of now, you can create and register basic custom player types (or typical nomenclature is classes) and races and create characters based off of them." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -810,25 +846,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/padwolf/swordslasers/components/PlayerType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
-          <folding>
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#806#807#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/padwolf/swordslasers/components/weapons/Weapon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/padwolf/swordslasers/iohandling/Profile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -911,29 +928,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/padwolf/swordslasers/registration/Registrar.java">
+    <entry file="file://$PROJECT_DIR$/src/com/padwolf/swordslasers/components/weapons/Weapon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.12">
-          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.4">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/padwolf/swordslasers/components/Race.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76235294">
-          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="120" selection-start-line="16" selection-start-column="120" selection-end-line="16" selection-end-column="120" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/padwolf/swordslasers/components/PlayerType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/padwolf/swordslasers/registration/Registrar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.16">
+          <caret line="87" column="29" selection-start-line="87" selection-start-column="29" selection-end-line="87" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
