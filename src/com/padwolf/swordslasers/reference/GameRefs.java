@@ -1,4 +1,4 @@
-package com.padwolf.swordslasers;
+package com.padwolf.swordslasers.reference;
 
 import com.padwolf.swordslasers.components.entity.Player;
 import com.padwolf.swordslasers.registration.Registration;

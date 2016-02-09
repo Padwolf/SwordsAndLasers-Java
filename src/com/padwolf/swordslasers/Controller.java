@@ -3,6 +3,9 @@ package com.padwolf.swordslasers;
 import com.padwolf.swordslasers.components.PlayerType;
 import com.padwolf.swordslasers.components.Race;
 import com.padwolf.swordslasers.components.entity.Player;
+import com.padwolf.swordslasers.reference.GameRefs;
+import com.padwolf.swordslasers.reference.PlayerTypes;
+import com.padwolf.swordslasers.reference.Races;
 import com.padwolf.swordslasers.registration.Registrar;
 import com.padwolf.swordslasers.registration.Registration;
 
@@ -35,7 +38,7 @@ public class Controller {
         System.out.println("Created character: " + player.getPlayerName() + " is a " + player.getRace().getName() + " with a " + player.getPlayerType().getType() + " occupation.");
         System.out.println();
         System.out.println();
-        player = rgst.CreateAndRegisterPlayer(new Player("Codewolf", rgst.getRegisteredRaces()[14], rgst.getRegisteredPlayerTypes()[4]));
+        player = rgst.CreateAndRegisterPlayer(new Player("Codewolf", Races.ROBOT, PlayerTypes.ARCHER));
         System.out.println("Created character: " + player.getPlayerName() + " is a " + player.getRace().getName() + " with a " + player.getPlayerType().getType() + " occupation.");
     }
     //

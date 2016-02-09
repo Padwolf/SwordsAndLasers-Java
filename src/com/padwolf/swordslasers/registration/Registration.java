@@ -1,6 +1,6 @@
 package com.padwolf.swordslasers.registration;
 
-import com.padwolf.swordslasers.GameRefs;
+import com.padwolf.swordslasers.reference.GameRefs;
 import com.padwolf.swordslasers.components.*;
 import com.padwolf.swordslasers.components.entity.Player;
 import com.padwolf.swordslasers.components.PlayerType;
